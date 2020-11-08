@@ -2,6 +2,6 @@
 AI Hack for Good 2020 team entry. 
 
 ### Authors
-- Andrew Wilson
+- Joel McIlroy
 - Jordan Smart
 - Michael Jennings
